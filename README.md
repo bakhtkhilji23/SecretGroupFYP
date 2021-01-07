@@ -4,5 +4,5 @@ We design around 17 screens first one is a welcome screen like then user open yo
 
 ### Auth UI
 
-![App UI](/UI.png)
+![App UI])
 # SecretGroupFYP
